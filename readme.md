@@ -1,4 +1,29 @@
-Análisis Exploratorio de Datos (EDA) sobre Homicidios Viales en Buenos Aires
+# Análisis Exploratorio de Datos (EDA) sobre Homicidios Viales en Buenos Aires
+
+# Tecnologias
+
+#### 1.-Pandas
+Para hacer las consultas  y transformaciones necesarias a el dataset para su correcto analisis
+
+#### 2.-Numpy 
+Para analisis estadistico
+
+#### 3.-Matplotlib
+Graficos de las variablles obtenidas
+
+#### 4.-Seaborn
+Para tener mas variedad en los graficos
+
+## DEFINICION DE QUE ES UN EDA
+
+El objetivo principal del EDA es ayudar a analizar los datos  antes de hacer suposiciones. Puede ayudar a identificar errores obvios, así como a comprender mejor los patrones dentro de los datos, detectar valores atípicos o eventos anómalos y encontrar relaciones interesantes entre las variables.
+
+## Transformaciones
+
+Solo es un EDA asi que no se realizaron transformaciones innecesarias, el trabajo se baso en conseguir la varible buscada interpretarla y graficarla sin mas.
+
+NO SE BUSCARON CONLUSIONES QUE NO TUBIERAN FUNDAMENTO.
+
 
 # Introducción
 
@@ -12,16 +37,22 @@ El conjunto de datos utilizado en este análisis proviene de la base de datos of
 
 # Metodología
 
-Utilizamos una combinación de técnicas de análisis de datos y visualización para explorar y comprender el conjunto de datos. Inicialmente, realizamos un análisis descriptivo para calcular estadísticas resumidas y distribuciones de variables clave. Luego, utilizamos gráficos y visualizaciones para representar los datos de manera efectiva y descubrir patrones visuales. Además, aplicamos técnicas de análisis estadístico para examinar relaciones y correlaciones entre diferentes variables.
-Resultados
+Se busco la informacion que pudiera complementar correctamente el dataset principal de analisis el cual era HOMICIDIOS en buenos aires.
+
+Utilize una combinación de técnicas de análisis de datos y visualización para explorar y comprender el conjunto de datos. Inicialmente, realize un análisis descriptivo para calcular estadísticas resumidas y distribuciones de variables clave. Luego, utilizamos gráficos y visualizaciones para representar los datos de manera efectiva y descubrir patrones visuales. Además, aplicamos técnicas de análisis estadístico para examinar relaciones y correlaciones entre diferentes variables.
+
+# Resultados
 
 Nuestro análisis reveló una serie de hallazgos interesantes sobre los homicidios viales en Buenos Aires. Observamos variaciones significativas en la frecuencia de los incidentes a lo largo del tiempo y en diferentes áreas geográficas de la ciudad. 
 
-Además, se pueden deducir, ciertos factores de riesgo, como el exceso de velocidad, la conducción bajo la influencia del alcohol y el incumplimiento de las normas de tránsito, que están asociados con un mayor riesgo de homicidios viales, entre otros.
+Además, se pueden deducir, ciertos factores de riesgo, como el exceso de velocidad, la conducción bajo la influencia del alcohol y el incumplimiento de las normas de tránsito, que están asociados con un mayor riesgo de homicidios viales, entre otros factores que se encuentran en el analisis explicados.
 
 # Conclusiones
+
+Se determino que la informacion presentada en el primer dataset era insuficiente para un correcto analisis asi que con la informacion complementaria se busco ampliar aun mas la vision sobre lo que sucedia en el primer dataset.
 
 El análisis exploratorio de datos proporciona una comprensión más profunda de la naturaleza y las causas de los homicidios viales en Buenos Aires. Estos hallazgos pueden ayudar a informar políticas y medidas de seguridad vial más efectivas, así como campañas de concientización pública y programas de aplicación de la ley. Al abordar los factores subyacentes que contribuyen a los homicidios viales, podemos trabajar hacia el objetivo de reducir la incidencia de estos incidentes y mejorar la seguridad vial en la ciudad.
 
 
 Este análisis es solo el comienzo de un proceso continuo de investigación y acción en el área de seguridad vial en Buenos Aires. 
+
